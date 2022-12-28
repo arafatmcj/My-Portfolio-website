@@ -3,24 +3,27 @@ h1{
 }
 .Name{color: chartreuse;
 }
+p{
+    font-size: 20px;
+}
 section{
     display: flex;
 }
 #Iamge1{
-    height: 70%;
-    width: 70%;
+    height: 400px;
+    width: 400px;
 }
 .half width {
     width: 50%;
-    padding-left: 15%;
+    padding-left: 20%;
     padding-right: 10px;
 
 }
 
-.half width img{
+.half-width img{
     width: 100%;
-    padding-top: 50%;
-  padding-bottom: 10%;
+    padding-top: 20%;
+  padding-left: 70% ;
 }
     .link-buttom {
         text-decoration: none;
@@ -48,5 +51,11 @@ section{
 }
 .half width2{
     width: 50%;
-    padding-left: 5%;
-    padding-right: 10px;}
+    padding-left: 25%;
+    padding-right: 25%;}
+    h1{
+        font-size: 50px;
+    }
+    h3{
+        font-size: 30px;
+    }

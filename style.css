@@ -4,10 +4,8 @@ h1{
 .Name{
     color: orange;
 }
-
 .Welcome{
     display: flex;
-    background-position: unset;
 }
 p{
 font-size: 20px;
@@ -83,5 +81,10 @@ font-size: 20px;
     color: orange;
   }
   body{
-    display: block;
+    margin: 0px;
+   font-family: 'Poppins', sans-serif;
   }
+  .Experince{
+    background-image: url(Image/Experince.png);
+    background-repeat: no-repeat;
+    }
